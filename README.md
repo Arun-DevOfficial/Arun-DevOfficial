@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1QqNGtZ3Ae8wkipGgxM2tMy-q1QPA4kQj/view?usp=drive_link)]
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20240111181346/Free-Python-Course.gif)]
 
 <h1 align="center">Hi 👋🏻, I'm Arun Kumar</h1>
 <h3 align="center">Passionate MERN stack developer and mentor, dedicated to crafting innovative web applications and guiding the next generation of developers through hands-on learning.</h3>
