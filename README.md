@@ -1,6 +1,6 @@
 [![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)]
 
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
+<h1 align="center">Hi 👋🏻, I'm Arun Kumar</h1>
 <h3 align="center">Passionate MERN stack developer and mentor, dedicated to crafting innovative web applications and guiding the next generation of developers through hands-on learning.</h3>
 <img align="right" width="450px" height="380px" src="https://res.cloudinary.com/dscycqmhw/image/upload/v1708174646/Codefeast/Courses/wtqss28inwyucb30m0hd.gif" alt="Code"/>
 
